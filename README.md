@@ -1,4 +1,4 @@
-# Soarkle swaddle
+# Sparkle swaddle
 Sparkle swaddle made for my sister when she was pregnant with her first child
 
 Adafruit's Circuit Playground Express, sewable neopixels and steel conductive thread 
